@@ -1,5 +1,15 @@
 # WAN-Network
 
+![image](https://github.com/user-attachments/assets/bd6659aa-9c1c-4d9e-b4b7-871cdaad17f9)
+Site 1:
+
+![image](https://github.com/user-attachments/assets/bd4afc5d-b020-4bbb-b8bc-ca9ca55909cf)
+Site 2:
+
+
+FULL SITE: 
+![image](https://github.com/user-attachments/assets/f7487c03-0443-4047-83ec-2f9f89508ad5)
+
 This Network Diagram consists of:
 
 •	Connects to the DHCP SERVER
